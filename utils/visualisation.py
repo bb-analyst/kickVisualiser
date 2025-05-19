@@ -116,7 +116,7 @@ def create_kicks_visualization(kicks_df, x_min, x_max, y_min, y_max):
         showlegend=False,
         plot_bgcolor="rgba(0, 0, 0, 0)",  # Transparent background
         paper_bgcolor="rgba(0, 0, 0, 0)",  # Transparent paper
-        margin=dict(l=0, r=0, t=0, b=0)
+        margin=dict(l=0, r=0, t=0, b=0),
     )
 
     return fig
