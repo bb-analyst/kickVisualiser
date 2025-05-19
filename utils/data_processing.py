@@ -99,4 +99,12 @@ def filter_kicks_data(df, fixtures_df, filters):
         (filtered_df["GS"] <= filters["game_time_range"][1])
         ]
 
+    #Apply tackle number filters
+    # Apply game time filters
+    filtered_df = filtered_df[
+        (filtered_df["TN"] >= filters["tackle_number_range"][0]) &
+        (filtered_df["TN"] <= filters["tackle_number_range"][1])
+        ]
+
+
     return filtered_df

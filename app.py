@@ -71,11 +71,19 @@ with st.sidebar:
     # Condition filters
     st.subheader("Match Condition Filters")
 
+    # Tackle Number filter
+    tackle_number_range = st.slider("Tackle Number",
+                                0,
+                                6,
+                                (0, 6))
+
     # Game time filter
     game_time_range = st.slider("Game Time (seconds)",
                                 game_time_min,
                                 game_time_max,
                                 (game_time_min, game_time_max))
+
+
 
     # Venue filter
     venue_values = fixtures_df["venueName"].dropna().unique()
@@ -109,7 +117,8 @@ filters = {
     "venue": venue,
     "ground_condition": ground_condition,
     "weather": weather,
-    "game_time_range": game_time_range
+    "game_time_range": game_time_range,
+    "tackle_number_range": tackle_number_range,
 }
 
 # Apply filters
