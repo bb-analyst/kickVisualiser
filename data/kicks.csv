@@ -38,50 +38,50 @@ GameId,TeamId,TeamName,OppositionId,OppositionName,PI,PN,SC,TN,GM,GS,VR,SN,NX,NY
 20251110110,500013,Canberra Raiders,500032,New Zealand Warriors,501175,Jamal Fogarty,81,6,77:46,4666,146775,Kick,539.0,486.0,774.0,570.0,Long,Received By Opposition
 20251110110,500032,New Zealand Warriors,500013,Canberra Raiders,501267,Mitchell Barnett,82,6,78:37,4717,148146,Kick,571.0,127.0,646.0,97.0,Chip,Received By Opposition
 20251110110,500013,Canberra Raiders,500032,New Zealand Warriors,501175,Jamal Fogarty,83,6,79:32,4772,149537,Kick,641.0,595.0,902.0,699.0,Grubber,Out On Bounce
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,1,6,00:45,45,4340,Kick,173.0,455.0,735.0,488.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,2,6,01:34,94,5554,Kick,690.0,477.0,988.0,583.0,Bomb,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,8,6,05:35,335,14277,Kick,423.0,161.0,919.0,225.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,100003896,Jack Cole,9,6,06:27,387,15590,Kick,680.0,348.0,861.0,539.0,Bomb,Opp Error
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,14,6,08:48,528,21204,Kick,236.0,417.0,755.0,517.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,15,6,09:35,575,22374,Kick,790.0,411.0,930.0,491.0,Bomb,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,16,6,10:21,621,23537,Kick,392.0,344.0,837.0,99.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,505414,Mitch Kenny,18,4,11:47,707,25682,Kick,880.0,435.0,902.0,403.0,Chip,Charge Down Retained
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,100003896,Jack Cole,18,4,11:54,714,25866,Kick,808.0,211.0,843.0,208.0,Chip,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504279,William Kennedy,20,6,13:29,809,28234,Kick,909.0,585.0,1093.0,682.0,Grubber,20m Restart
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,21,6,14:35,875,29880,Kick,698.0,492.0,929.0,603.0,Bomb,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,22,5,15:19,919,30976,Kick,674.0,209.0,936.0,46.0,Chip,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,23,6,16:02,962,32060,Kick,408.0,473.0,850.0,548.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,24,6,16:50,1010,33271,Kick,646.0,165.0,938.0,44.0,Bomb,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,29,6,21:13,1273,39827,Kick,652.0,420.0,856.0,556.0,Bomb,Opp Error
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,32,6,23:46,1426,45160,Kick,588.0,238.0,834.0,54.0,Bomb,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,33,5,24:22,1462,46045,Kick,325.0,292.0,963.0,5.0,Long,Finds Space
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,34,6,25:10,1510,47243,Kick,368.0,200.0,812.0,187.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,37,4,28:53,1733,53920,Kick,864.0,460.0,1017.0,499.0,Chip,Try
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,38,6,31:09,1869,58446,Kick,434.0,454.0,926.0,488.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,39,6,31:59,1919,59699,Kick,494.0,534.0,919.0,530.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,40,6,32:49,1969,60956,Kick,672.0,443.0,789.0,661.0,Bomb,Regained
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,509467,Izack Tago,40,6,33:00,1980,61231,Kick,694.0,432.0,790.0,397.0,Grubber,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,44,5,35:06,2106,64603,Kick,934.0,454.0,1051.0,586.0,Grubber,Try
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,47,6,38:56,2336,71136,Kick,485.0,319.0,765.0,195.0,Bomb,Own Error
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,49,6,40:48,2448,81815,Kick,378.0,359.0,917.0,531.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,50,6,41:35,2495,82996,Kick,555.0,385.0,803.0,39.0,Bomb,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,51,6,42:25,2545,84247,Kick,547.0,397.0,939.0,488.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,52,5,43:04,2584,85231,Kick,283.0,351.0,977.0,37.0,Long,Finds Space
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,53,6,44:07,2647,86807,Kick,448.0,462.0,818.0,579.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,56,5,46:36,2796,92301,Kick,396.0,375.0,420.0,365.0,Long,Kick Error
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,60,6,50:54,3054,100614,Kick,550.0,440.0,957.0,568.0,Bomb,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,63,6,54:08,3248,108207,Kick,529.0,416.0,934.0,594.0,Bomb,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,66,6,57:08,3428,112708,Kick,858.0,213.0,937.0,560.0,Crossfield,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,68,0,57:44,3464,113596,Kick,679.0,118.0,883.0,56.0,Grubber,Try
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,69,6,60:24,3624,119044,Kick,601.0,320.0,864.0,207.0,Bomb,Opp Error
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,76,6,65:27,3927,127242,Kick,570.0,474.0,924.0,639.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,77,6,66:14,3974,128424,Kick,358.0,577.0,940.0,521.0,Long,Finds Space
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,78,5,66:57,4017,129498,Kick,461.0,297.0,795.0,152.0,Grubber,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,81,6,70:22,4222,135788,Kick,484.0,140.0,928.0,103.0,Long,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,82,6,71:06,4266,136896,Kick,486.0,472.0,934.0,602.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,83,6,72:00,4320,138237,Kick,581.0,230.0,914.0,147.0,Bomb,Received By Opposition
-20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,84,6,72:41,4361,139281,Kick,380.0,395.0,882.0,559.0,Long,Received By Opposition
-20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,92,2,79:51,4791,151830,Kick,175.0,503.0,246.0,559.0,Grubber,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,1,6,00:45,45,4349,Kick,173.0,455.0,735.0,488.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,2,6,01:34,94,5563,Kick,690.0,477.0,988.0,583.0,Bomb,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,8,6,05:35,335,14286,Kick,423.0,161.0,919.0,225.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,100003896,Jack Cole,9,6,06:27,387,15599,Kick,680.0,348.0,861.0,539.0,Bomb,Opp Error
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,14,6,08:48,528,21213,Kick,236.0,417.0,755.0,517.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,15,6,09:35,575,22383,Kick,790.0,411.0,930.0,491.0,Bomb,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,16,6,10:21,621,23546,Kick,392.0,344.0,837.0,99.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,505414,Mitch Kenny,18,4,11:47,707,25691,Kick,880.0,435.0,902.0,403.0,Chip,Charge Down Retained
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,100003896,Jack Cole,18,4,11:54,714,25875,Kick,808.0,211.0,843.0,208.0,Chip,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504279,William Kennedy,20,6,13:29,809,28243,Kick,909.0,585.0,1093.0,682.0,Grubber,20m Restart
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,21,6,14:35,875,29889,Kick,698.0,492.0,929.0,603.0,Bomb,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,22,5,15:19,919,30985,Kick,674.0,209.0,936.0,46.0,Chip,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,23,6,16:02,962,32069,Kick,408.0,473.0,850.0,548.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,24,6,16:50,1010,33280,Kick,646.0,165.0,938.0,44.0,Bomb,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,29,6,21:13,1273,39836,Kick,652.0,420.0,856.0,556.0,Bomb,Opp Error
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,32,6,23:46,1426,45169,Kick,588.0,238.0,834.0,54.0,Bomb,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,33,5,24:22,1462,46054,Kick,325.0,292.0,963.0,5.0,Long,Finds Space
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,34,6,25:10,1510,47252,Kick,368.0,200.0,812.0,187.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,37,4,28:53,1733,53929,Kick,864.0,460.0,1017.0,499.0,Chip,Try
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,38,6,31:09,1869,58455,Kick,434.0,454.0,926.0,488.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,39,6,31:59,1919,59708,Kick,494.0,534.0,919.0,530.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,40,6,32:49,1969,60965,Kick,672.0,443.0,789.0,661.0,Bomb,Regained
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,509467,Izack Tago,40,6,33:00,1980,61240,Kick,694.0,432.0,790.0,397.0,Grubber,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,44,5,35:06,2106,64612,Kick,934.0,454.0,1051.0,586.0,Grubber,Try
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,47,6,38:56,2336,71145,Kick,485.0,319.0,765.0,195.0,Bomb,Own Error
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,49,6,40:48,2448,81817,Kick,378.0,359.0,917.0,531.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,50,6,41:35,2495,82998,Kick,555.0,385.0,803.0,39.0,Bomb,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,51,6,42:25,2545,84249,Kick,547.0,397.0,939.0,488.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,52,5,43:04,2584,85233,Kick,283.0,351.0,977.0,37.0,Long,Finds Space
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,53,6,44:07,2647,86809,Kick,448.0,462.0,818.0,579.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,56,5,46:36,2796,92303,Kick,396.0,375.0,420.0,365.0,Long,Kick Error
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,60,6,50:54,3054,100616,Kick,550.0,440.0,957.0,568.0,Bomb,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,63,6,54:08,3248,108209,Kick,529.0,416.0,934.0,594.0,Bomb,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,66,6,57:08,3428,112710,Kick,858.0,213.0,937.0,560.0,Crossfield,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,68,0,57:44,3464,113598,Kick,679.0,118.0,883.0,56.0,Grubber,Try
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,69,6,60:24,3624,119046,Kick,601.0,320.0,864.0,207.0,Bomb,Opp Error
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,76,6,65:27,3927,127244,Kick,570.0,474.0,924.0,639.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,77,6,66:14,3974,128426,Kick,358.0,577.0,940.0,521.0,Long,Finds Space
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,78,5,66:57,4017,129500,Kick,461.0,297.0,795.0,152.0,Grubber,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,81,6,70:22,4222,135790,Kick,484.0,140.0,928.0,103.0,Long,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,82,6,71:06,4266,136898,Kick,486.0,472.0,934.0,602.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,504321,Braydon Trindall,83,6,72:00,4320,138239,Kick,581.0,230.0,914.0,147.0,Bomb,Received By Opposition
+20251110120,500014,Penrith Panthers,500028,Cronulla-Sutherland Sharks,504120,Nathan Cleary,84,6,72:41,4361,139283,Kick,380.0,395.0,882.0,559.0,Long,Received By Opposition
+20251110120,500028,Cronulla-Sutherland Sharks,500014,Penrith Panthers,502490,Nicholas Hynes,92,2,79:51,4791,151832,Kick,175.0,503.0,246.0,559.0,Grubber,Received By Opposition
 20251110130,500001,Sydney Roosters,500011,Brisbane Broncos,501183,Chad Townsend,4,6,02:59,179,5398,Kick,408.0,551.0,923.0,502.0,Long,Received By Opposition
 20251110130,500011,Brisbane Broncos,500001,Sydney Roosters,500086,Adam Reynolds,5,6,03:54,234,6787,Kick,460.0,364.0,852.0,551.0,Long,Received By Opposition
 20251110130,500001,Sydney Roosters,500011,Brisbane Broncos,509579,Sandon Smith,6,6,04:45,285,8054,Kick,531.0,190.0,873.0,182.0,Long,Received By Opposition
@@ -321,48 +321,48 @@ GameId,TeamId,TeamName,OppositionId,OppositionName,PI,PN,SC,TN,GM,GS,VR,SN,NX,NY
 20251110180,500031,Parramatta Eels,500021,Melbourne Storm,100000365,Ronald Volkman,76,6,74:19,4459,138054,Kick,366.0,385.0,900.0,568.0,Long,Received By Opposition
 20251110180,500031,Parramatta Eels,500021,Melbourne Storm,507922,Will Penisini,80,6,79:37,4777,148231,Kick,648.0,99.0,639.0,101.0,Grubber,Received By Opposition
 20251110180,500021,Melbourne Storm,500031,Parramatta Eels,507680,Tyran Wishart,81,3,79:59,4799,148784,Kick,411.0,642.0,424.0,695.0,Grubber,Out On Bounce
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,3,6,02:27,147,4882,Kick,653.0,482.0,851.0,552.0,Bomb,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,4,6,03:18,198,6170,Kick,547.0,397.0,875.0,564.0,Bomb,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,500622,Tyson Frizell,7,6,05:10,310,8969,Kick,842.0,256.0,1071.0,157.0,Grubber,Own Error
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,8,6,06:22,382,12301,Kick,754.0,517.0,951.0,574.0,Bomb,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,100007619,James Schiller,10,5,07:52,472,14546,Kick,902.0,682.0,1016.0,679.0,Grubber,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,11,6,08:34,514,15609,Kick,362.0,572.0,776.0,485.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,13,6,12:05,725,22459,Kick,476.0,340.0,750.0,516.0,Bomb,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,17,6,15:50,950,31550,Kick,345.0,370.0,691.0,654.0,Long,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,18,6,16:43,1003,32862,Kick,680.0,402.0,954.0,622.0,Bomb,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,20,6,18:37,1117,35734,Kick,939.0,348.0,1047.0,335.0,Grubber,Forces Dropout
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,24,6,23:03,1383,43602,Kick,860.0,359.0,981.0,680.0,Crossfield,Opp Error
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,27,5,24:38,1478,46339,Kick,901.0,247.0,984.0,360.0,Grubber,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,28,6,25:28,1528,47596,Kick,370.0,554.0,776.0,265.0,Long,Finds Space
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,30,4,26:28,1588,49090,Kick,840.0,434.0,845.0,363.0,Grubber,Regained
-20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,30,6,26:48,1608,49588,Kick,933.0,127.0,961.0,112.0,Grubber,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,33,6,30:09,1809,56169,Kick,463.0,258.0,871.0,165.0,Long,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,34,6,30:57,1857,57359,Kick,459.0,436.0,752.0,641.0,Bomb,Opp Error
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,38,6,34:48,2088,64053,Kick,637.0,527.0,962.0,505.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,39,5,35:27,2127,65044,Kick,475.0,488.0,980.0,540.0,Long,Finds Space
-20251110210,500723,Dolphins,500003,Newcastle Knights,500265,Kodi Nikorima,40,6,36:27,2187,66526,Kick,459.0,268.0,964.0,163.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,41,6,37:13,2233,67687,Kick,421.0,508.0,884.0,521.0,Long,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,500265,Kodi Nikorima,42,6,38:04,2284,68960,Kick,684.0,514.0,929.0,603.0,Bomb,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,43,6,38:51,2331,70133,Kick,557.0,334.0,888.0,178.0,Long,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,44,6,39:42,2382,71419,Kick,545.0,161.0,981.0,137.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,46,6,40:47,2447,76026,Kick,433.0,392.0,882.0,512.0,Long,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,47,6,41:43,2503,77425,Kick,547.0,545.0,963.0,539.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,51,6,46:27,2787,85938,Kick,475.0,243.0,844.0,263.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,54,6,49:48,2988,90963,Kick,566.0,83.0,837.0,36.0,Bomb,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,55,6,51:31,3091,93534,Kick,863.0,469.0,970.0,149.0,Crossfield,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,506682,Bradman Best,57,6,53:10,3190,96009,Kick,867.0,71.0,968.0,142.0,Grubber,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,58,6,54:02,3242,97327,Kick,357.0,454.0,873.0,448.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,59,6,55:03,3303,98839,Kick,830.0,200.0,1058.0,320.0,Grubber,Forces Dropout
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,63,6,59:02,3542,104824,Kick,860.0,237.0,959.0,577.0,Crossfield,Own Error
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,64,6,59:56,3596,106154,Kick,482.0,283.0,863.0,84.0,Long,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,100006482,Fletcher Sharpe,65,3,60:29,3629,106979,Kick,585.0,349.0,952.0,185.0,Chip,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,67,6,62:31,3751,110036,Kick,684.0,348.0,913.0,584.0,Long,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,69,6,64:41,3881,113298,Kick,910.0,260.0,1002.0,243.0,Grubber,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,72,6,68:17,4097,120195,Kick,560.0,483.0,876.0,460.0,Bomb,Received By Opposition
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,74,6,69:44,4184,123655,Kick,859.0,487.0,1021.0,607.0,Grubber,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,75,6,70:36,4236,125056,Kick,636.0,204.0,818.0,187.0,Bomb,Opp Error
-20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,79,6,74:26,4466,131053,Kick,577.0,474.0,865.0,575.0,Bomb,Received By Opposition
-20251110210,500723,Dolphins,500003,Newcastle Knights,505643,Jake Averillo,82,6,78:04,4684,136502,Kick,836.0,60.0,962.0,54.0,Grubber,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,3,6,02:27,147,4891,Kick,653.0,482.0,851.0,552.0,Bomb,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,4,6,03:18,198,6179,Kick,547.0,397.0,875.0,564.0,Bomb,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,500622,Tyson Frizell,7,6,05:10,310,8978,Kick,842.0,256.0,1071.0,157.0,Grubber,Own Error
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,8,6,06:22,382,12310,Kick,754.0,517.0,951.0,574.0,Bomb,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,100007619,James Schiller,10,5,07:52,472,14555,Kick,902.0,682.0,1016.0,679.0,Grubber,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,11,6,08:34,514,15618,Kick,362.0,572.0,776.0,485.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,13,6,12:05,725,22468,Kick,476.0,340.0,750.0,516.0,Bomb,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,17,6,15:50,950,31559,Kick,345.0,370.0,691.0,654.0,Long,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,18,6,16:43,1003,32871,Kick,680.0,402.0,954.0,622.0,Bomb,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,20,6,18:37,1117,35743,Kick,939.0,348.0,1047.0,335.0,Grubber,Forces Dropout
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,24,6,23:03,1383,43611,Kick,860.0,359.0,981.0,680.0,Crossfield,Opp Error
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,27,5,24:38,1478,46348,Kick,901.0,247.0,984.0,360.0,Grubber,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,28,6,25:28,1528,47605,Kick,370.0,554.0,776.0,265.0,Long,Finds Space
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,30,4,26:28,1588,49099,Kick,840.0,434.0,845.0,363.0,Grubber,Regained
+20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,30,6,26:48,1608,49597,Kick,933.0,127.0,961.0,112.0,Grubber,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,33,6,30:09,1809,56178,Kick,463.0,258.0,871.0,165.0,Long,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,34,6,30:57,1857,57368,Kick,459.0,436.0,752.0,641.0,Bomb,Opp Error
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,38,6,34:48,2088,64062,Kick,637.0,527.0,962.0,505.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,39,5,35:27,2127,65053,Kick,475.0,488.0,980.0,540.0,Long,Finds Space
+20251110210,500723,Dolphins,500003,Newcastle Knights,500265,Kodi Nikorima,40,6,36:27,2187,66535,Kick,459.0,268.0,964.0,163.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,41,6,37:13,2233,67696,Kick,421.0,508.0,884.0,521.0,Long,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,500265,Kodi Nikorima,42,6,38:04,2284,68969,Kick,684.0,514.0,929.0,603.0,Bomb,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,43,6,38:51,2331,70142,Kick,557.0,334.0,888.0,178.0,Long,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,44,6,39:42,2382,71428,Kick,545.0,161.0,981.0,137.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,46,6,40:47,2447,76078,Kick,433.0,392.0,882.0,512.0,Long,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,47,6,41:43,2503,77477,Kick,547.0,545.0,963.0,539.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,51,6,46:27,2787,85990,Kick,475.0,243.0,844.0,263.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,54,6,49:48,2988,91015,Kick,566.0,83.0,837.0,36.0,Bomb,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,55,6,51:31,3091,93586,Kick,863.0,469.0,970.0,149.0,Crossfield,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,506682,Bradman Best,57,6,53:10,3190,96061,Kick,867.0,71.0,968.0,142.0,Grubber,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,58,6,54:02,3242,97379,Kick,357.0,454.0,873.0,448.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,504870,Kalyn Ponga,59,6,55:03,3303,98891,Kick,830.0,200.0,1058.0,320.0,Grubber,Forces Dropout
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,63,6,59:02,3542,104876,Kick,860.0,237.0,959.0,577.0,Crossfield,Own Error
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,64,6,59:56,3596,106206,Kick,482.0,283.0,863.0,84.0,Long,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,100006482,Fletcher Sharpe,65,3,60:29,3629,107031,Kick,585.0,349.0,952.0,185.0,Chip,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,67,6,62:31,3751,110088,Kick,684.0,348.0,913.0,584.0,Long,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,69,6,64:41,3881,113350,Kick,910.0,260.0,1002.0,243.0,Grubber,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,72,6,68:17,4097,120247,Kick,560.0,483.0,876.0,460.0,Bomb,Received By Opposition
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,74,6,69:44,4184,123707,Kick,859.0,487.0,1021.0,607.0,Grubber,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,100006258,Isaiya Katoa,75,6,70:36,4236,125108,Kick,636.0,204.0,818.0,187.0,Bomb,Opp Error
+20251110210,500003,Newcastle Knights,500723,Dolphins,502695,Jack Cogger,79,6,74:26,4466,131105,Kick,577.0,474.0,865.0,575.0,Bomb,Received By Opposition
+20251110210,500723,Dolphins,500003,Newcastle Knights,505643,Jake Averillo,82,6,78:04,4684,136554,Kick,836.0,60.0,962.0,54.0,Grubber,Received By Opposition
 20251110220,500032,New Zealand Warriors,500002,Manly-Warringah Sea Eagles,504296,Luke Metcalf,1,6,00:41,41,1757,Kick,420.0,427.0,884.0,529.0,Long,Received By Opposition
 20251110220,500032,New Zealand Warriors,500002,Manly-Warringah Sea Eagles,504296,Luke Metcalf,3,6,02:12,132,4025,Kick,900.0,237.0,908.0,211.0,Grubber,Received By Opposition
 20251110220,500002,Manly-Warringah Sea Eagles,500032,New Zealand Warriors,500646,Luke Brooks,5,6,05:14,314,9685,Kick,488.0,420.0,880.0,460.0,Long,Received By Opposition
@@ -4064,7 +4064,7 @@ GameId,TeamId,TeamName,OppositionId,OppositionName,PI,PN,SC,TN,GM,GS,VR,SN,NX,NY
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100003925,Ethan Sanders,37,6,33:41,2021,62254,Kick,578.0,311.0,917.0,138.0,Long,Received By Opposition
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100003925,Ethan Sanders,39,6,36:14,2174,66123,Kick,825.0,485.0,850.0,603.0,Bomb,Own Error
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100000129,Simi Sasagi,42,4,38:26,2306,69417,Kick,485.0,543.0,485.0,543.0,Grubber,Received By Opposition
-20251111370,500013,Canberra Raiders,500001,Sydney Roosters,505985,Zac Hosking,45,6,40:50,2450,82581,Kick,341.0,175.0,838.0,174.0,Long,Received By Opposition
+20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100003925,Ethan Sanders,45,6,40:50,2450,82581,Kick,341.0,175.0,838.0,174.0,Long,Received By Opposition
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509599,Hugo Savala,46,6,41:41,2501,83856,Kick,687.0,585.0,947.0,528.0,Bomb,Received By Opposition
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100003925,Ethan Sanders,47,6,42:28,2548,85015,Kick,280.0,265.0,765.0,197.0,Long,Received By Opposition
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509599,Hugo Savala,48,6,43:21,2601,86343,Kick,677.0,325.0,938.0,579.0,Bomb,Received By Opposition
@@ -4078,7 +4078,7 @@ GameId,TeamId,TeamName,OppositionId,OppositionName,PI,PN,SC,TN,GM,GS,VR,SN,NX,NY
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509599,Hugo Savala,56,6,52:09,3129,101155,Kick,590.0,410.0,855.0,556.0,Bomb,Own Error
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100006524,Ethan Strange,57,6,53:07,3187,102602,Kick,668.0,247.0,884.0,215.0,Bomb,Received By Opposition
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509599,Hugo Savala,59,6,55:58,3358,108462,Kick,565.0,343.0,865.0,170.0,Bomb,Regained
-20251111370,500013,Canberra Raiders,500001,Sydney Roosters,505985,Zac Hosking,60,6,56:58,3418,109949,Kick,508.0,222.0,838.0,30.0,Long,Received By Opposition
+20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100003925,Ethan Sanders,60,6,56:58,3418,109949,Kick,508.0,222.0,838.0,30.0,Long,Received By Opposition
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100003925,Ethan Sanders,64,6,60:43,3643,117379,Kick,626.0,136.0,881.0,94.0,Bomb,Opp Error
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100009202,Owen Pattie,66,6,62:22,3742,119853,Kick,958.0,361.0,1027.0,388.0,Grubber,Try
 20251111370,500013,Canberra Raiders,500001,Sydney Roosters,100013751,Savelio Tamale,67,6,64:50,3890,124317,Kick,750.0,15.0,1065.0,103.0,Chip,Forces Dropout
@@ -4091,3 +4091,582 @@ GameId,TeamId,TeamName,OppositionId,OppositionName,PI,PN,SC,TN,GM,GS,VR,SN,NX,NY
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509599,Hugo Savala,75,6,72:54,4374,136419,Kick,526.0,603.0,869.0,419.0,Bomb,Received By Opposition
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509599,Hugo Savala,79,6,76:19,4579,144792,Kick,851.0,518.0,1013.0,130.0,Crossfield,20m Restart
 20251111370,500001,Sydney Roosters,500013,Canberra Raiders,509579,Sandon Smith,81,6,78:28,4708,148517,Kick,739.0,178.0,888.0,205.0,Bomb,Opp Error
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,1,6,00:47,47,2479,Kick,400.0,455.0,900.0,581.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,2,6,01:40,100,3808,Kick,438.0,248.0,778.0,63.0,Long,Finds Space
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,3,6,02:26,146,4948,Kick,472.0,474.0,851.0,597.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,4,6,03:18,198,6247,Kick,653.0,260.0,855.0,188.0,Bomb,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,5,6,04:01,241,7336,Kick,422.0,516.0,876.0,560.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,509634,Tolutau Koula,6,5,04:54,294,8653,Kick,655.0,70.0,950.0,189.0,Grubber,Own Error
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,100011191,Lehi Hopoate,6,5,04:57,297,8741,Kick,950.0,189.0,1051.0,243.0,Grubber,Own Error
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,9,6,07:10,430,16203,Kick,876.0,376.0,1035.0,584.0,Crossfield,Forces Dropout
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,15,6,12:04,724,23553,Kick,422.0,471.0,955.0,544.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,17,6,15:12,912,30097,Kick,421.0,259.0,935.0,189.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,18,6,16:01,961,31317,Kick,520.0,489.0,938.0,468.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500646,Luke Brooks,19,6,16:53,1013,32625,Kick,637.0,548.0,891.0,547.0,Bomb,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,20,6,17:49,1069,34009,Kick,433.0,445.0,862.0,257.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,21,4,18:23,1103,34880,Kick,376.0,237.0,853.0,451.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,504870,Kalyn Ponga,25,6,21:01,1261,38830,Kick,866.0,152.0,962.0,100.0,Grubber,Opp Error
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,29,6,23:07,1387,44392,Kick,432.0,372.0,870.0,532.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,100006482,Fletcher Sharpe,30,6,23:52,1432,45509,Kick,586.0,574.0,946.0,531.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,31,6,24:44,1484,46815,Kick,729.0,227.0,972.0,239.0,Bomb,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,32,6,25:30,1530,47959,Kick,456.0,507.0,940.0,478.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500646,Luke Brooks,42,6,36:26,2186,68035,Kick,332.0,360.0,859.0,252.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,45,4,38:36,2316,71278,Kick,923.0,476.0,1043.0,692.0,Crossfield,Own Error
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500646,Luke Brooks,47,6,41:01,2461,79147,Kick,594.0,524.0,836.0,543.0,Bomb,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,504870,Kalyn Ponga,48,6,41:54,2514,80471,Kick,396.0,404.0,789.0,619.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,49,6,42:53,2573,81933,Kick,568.0,390.0,932.0,562.0,Bomb,Regained
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,50,6,43:40,2620,83124,Kick,387.0,476.0,880.0,618.0,Long,Finds Space
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,51,4,44:10,2650,83870,Kick,383.0,407.0,791.0,2.0,Long,Finds Space
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,504870,Kalyn Ponga,53,6,47:51,2871,91371,Kick,500.0,364.0,788.0,600.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,54,6,48:46,2926,92750,Kick,478.0,334.0,931.0,552.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,100006482,Fletcher Sharpe,55,6,49:40,2980,94110,Kick,572.0,524.0,957.0,415.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,56,6,50:28,3028,95296,Kick,359.0,497.0,873.0,583.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500646,Luke Brooks,59,6,52:16,3136,97997,Kick,863.0,270.0,1058.0,508.0,Crossfield,20m Restart
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,60,6,53:24,3204,99716,Kick,602.0,351.0,873.0,218.0,Bomb,Try
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,61,6,55:53,3353,105015,Kick,436.0,298.0,872.0,487.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,62,6,56:48,3408,106409,Kick,631.0,621.0,631.0,621.0,Long,Kick Error
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,64,6,58:36,3516,111045,Kick,462.0,300.0,900.0,141.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,69,6,64:12,3852,121180,Kick,532.0,381.0,776.0,575.0,Bomb,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,504870,Kalyn Ponga,72,6,66:33,3993,125005,Kick,288.0,241.0,837.0,18.0,Long,Finds Space
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,74,6,69:41,4181,130741,Kick,514.0,432.0,890.0,602.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,75,6,70:30,4230,131956,Kick,446.0,195.0,960.0,2.0,Long,Finds Space
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,76,6,71:47,4307,133900,Kick,455.0,414.0,954.0,552.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,77,6,72:41,4361,135232,Kick,670.0,372.0,912.0,196.0,Bomb,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500646,Luke Brooks,78,6,73:34,4414,136571,Kick,461.0,454.0,848.0,552.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,502695,Jack Cogger,80,6,76:53,4613,143124,Kick,471.0,207.0,862.0,154.0,Long,Received By Opposition
+20251111410,500002,Manly-Warringah Sea Eagles,500003,Newcastle Knights,500024,Daly Cherry-Evans,81,6,77:48,4668,144499,Kick,568.0,276.0,893.0,122.0,Long,Received By Opposition
+20251111410,500003,Newcastle Knights,500002,Manly-Warringah Sea Eagles,100007619,James Schiller,82,6,78:49,4729,146024,Kick,716.0,685.0,716.0,686.0,Chip,Out On Full
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,1,6,00:44,44,2831,Kick,391.0,499.0,841.0,449.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,504087,Scott Drinkwater,2,6,01:31,91,3990,Kick,656.0,191.0,970.0,81.0,Long,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,501459,Cameron Munster,4,6,03:47,227,7391,Kick,869.0,271.0,1097.0,185.0,Crossfield,Forces Dropout
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,501459,Cameron Munster,8,6,08:17,497,15230,Kick,899.0,279.0,1049.0,179.0,Grubber,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,10,6,09:59,599,17767,Kick,895.0,256.0,947.0,291.0,Grubber,Opp Error
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,13,6,12:03,723,20871,Kick,553.0,428.0,852.0,375.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,14,6,13:03,783,22364,Kick,852.0,176.0,996.0,359.0,Chip,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,501459,Cameron Munster,15,6,13:43,823,23368,Kick,547.0,142.0,960.0,117.0,Long,Finds Space
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,501459,Cameron Munster,21,6,19:38,1178,33529,Kick,424.0,192.0,844.0,317.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,24,6,23:26,1406,40114,Kick,470.0,488.0,916.0,454.0,Long,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,505904,Harry Grant,25,5,24:09,1449,41189,Kick,494.0,340.0,922.0,566.0,Long,Finds Space
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,503944,Reece Robson,26,6,25:02,1502,42513,Kick,568.0,488.0,907.0,513.0,Long,Finds Space
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,28,6,27:07,1627,45645,Kick,923.0,321.0,916.0,359.0,Grubber,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,30,6,28:18,1698,47685,Kick,371.0,274.0,914.0,141.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,31,6,29:14,1754,49083,Kick,815.0,280.0,956.0,421.0,Bomb,Forces Dropout
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,36,6,32:46,1966,54394,Kick,559.0,623.0,798.0,561.0,Bomb,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,37,6,33:43,2023,55801,Kick,761.0,302.0,888.0,171.0,Bomb,Regained
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,505904,Harry Grant,38,6,34:37,2077,57153,Kick,631.0,563.0,890.0,575.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,504087,Scott Drinkwater,41,6,36:47,2207,60423,Kick,879.0,298.0,998.0,368.0,Chip,Forces Dropout
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,43,6,38:44,2324,64644,Kick,556.0,602.0,823.0,455.0,Bomb,Opp Error
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,48,6,42:06,2526,77697,Kick,772.0,407.0,876.0,178.0,Crossfield,Opp Error
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,50,2,42:32,2552,78336,Kick,885.0,413.0,1051.0,600.0,Grubber,Try
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,51,6,45:00,2700,83436,Kick,436.0,365.0,631.0,348.0,Grubber,Regained
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,52,6,45:58,2758,84882,Kick,806.0,216.0,1022.0,169.0,Bomb,20m Restart
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,55,6,48:34,2914,90595,Kick,592.0,555.0,855.0,553.0,Bomb,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,56,6,49:25,2965,91855,Kick,663.0,375.0,839.0,133.0,Bomb,Regained
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,504087,Scott Drinkwater,61,6,53:56,3236,100004,Kick,656.0,200.0,841.0,92.0,Bomb,Try
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,64,6,57:49,3469,107110,Kick,651.0,503.0,793.0,635.0,Bomb,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,67,6,60:46,3646,112354,Kick,397.0,485.0,869.0,597.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,504087,Scott Drinkwater,70,6,64:07,3847,117803,Kick,548.0,506.0,914.0,561.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,72,6,66:18,3978,121096,Kick,867.0,218.0,992.0,111.0,Grubber,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,73,6,67:00,4020,122128,Kick,352.0,410.0,787.0,143.0,Long,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,74,6,67:50,4070,123398,Kick,753.0,429.0,932.0,315.0,Bomb,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,501459,Cameron Munster,75,6,68:37,4117,124569,Kick,367.0,185.0,880.0,189.0,Long,Finds Space
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,502214,John Bateman,76,6,69:36,4176,126040,Kick,879.0,258.0,954.0,210.0,Grubber,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,504098,Ryan Papenhuyzen,79,5,72:10,4330,130086,Kick,890.0,199.0,824.0,225.0,Grubber,Regained
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,83,6,75:21,4521,134878,Kick,480.0,549.0,685.0,513.0,Bomb,Own Error
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,100004865,Jack Howarth,85,1,76:09,4569,137444,Kick,542.0,24.0,864.0,225.0,Grubber,Received By Opposition
+20251111420,500012,North Queensland Cowboys,500021,Melbourne Storm,506424,Tom Dearden,86,6,77:13,4633,139047,Kick,630.0,181.0,980.0,156.0,Bomb,Received By Opposition
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,500826,Jahrome Hughes,87,6,78:29,4709,140939,Kick,557.0,341.0,731.0,176.0,Bomb,Regained
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,100001634,Xavier Coates,87,6,78:35,4715,141097,Kick,761.0,255.0,774.0,251.0,Chip,Charge Down Retained
+20251111420,500021,Melbourne Storm,500012,North Queensland Cowboys,505904,Harry Grant,90,3,79:52,4792,145126,Kick,442.0,144.0,442.0,144.0,Long,Finds Space
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,3,6,04:14,254,8148,Kick,356.0,349.0,685.0,1.0,Long,Finds Space
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,5,6,06:18,378,11242,Kick,483.0,396.0,899.0,550.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,502511,Jeremy Marshall-King,7,6,07:59,479,13762,Kick,932.0,313.0,965.0,332.0,Grubber,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,500265,Kodi Nikorima,10,6,12:41,761,22343,Kick,722.0,304.0,895.0,157.0,Bomb,Opp Error
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,13,6,16:08,968,29524,Kick,553.0,589.0,907.0,586.0,Long,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,14,6,16:54,1014,30681,Kick,347.0,390.0,834.0,561.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,16,6,18:35,1115,33208,Kick,892.0,277.0,953.0,204.0,Grubber,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,500729,Clinton Gutherson,18,4,19:41,1181,35014,Kick,817.0,98.0,921.0,151.0,Grubber,Regained
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,20,6,23:06,1386,43370,Kick,637.0,549.0,932.0,609.0,Bomb,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,100012312,Lyhkan King-Togia,22,6,24:49,1489,45962,Kick,903.0,343.0,1041.0,171.0,Grubber,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,23,6,25:33,1533,47052,Kick,365.0,384.0,871.0,40.0,Long,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,25,6,27:12,1632,49528,Kick,935.0,454.0,1062.0,477.0,Grubber,Forces Dropout
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,28,6,29:52,1792,53528,Kick,650.0,192.0,926.0,129.0,Bomb,Try
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,500265,Kodi Nikorima,29,6,32:24,1944,58828,Kick,530.0,237.0,854.0,45.0,Long,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,30,6,33:06,1986,59877,Kick,417.0,510.0,903.0,519.0,Long,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,32,6,34:43,2083,62309,Kick,735.0,429.0,962.0,154.0,Bomb,Own Error
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,33,6,36:01,2161,64256,Kick,670.0,436.0,953.0,180.0,Bomb,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,34,6,36:50,2210,65480,Kick,452.0,496.0,879.0,588.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,500265,Kodi Nikorima,35,6,37:48,2268,66919,Kick,892.0,172.0,989.0,67.0,Chip,Try
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,37,6,40:49,2449,77395,Kick,543.0,498.0,806.0,523.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,40,6,44:12,2652,83722,Kick,416.0,222.0,876.0,195.0,Long,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,41,6,45:01,2701,84927,Kick,602.0,504.0,955.0,523.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,43,6,48:19,2899,91078,Kick,384.0,520.0,881.0,523.0,Long,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,100012312,Lyhkan King-Togia,44,6,49:13,2953,92426,Kick,671.0,166.0,934.0,120.0,Bomb,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,45,6,50:11,3011,93962,Kick,425.0,478.0,849.0,688.0,Long,Kick Error
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,100012312,Lyhkan King-Togia,47,6,51:49,3109,96415,Kick,866.0,252.0,965.0,579.0,Crossfield,Opp Error
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,49,4,54:07,3247,99864,Kick,314.0,412.0,898.0,696.0,Long,40/20
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,54,6,61:56,3716,114174,Kick,626.0,417.0,791.0,193.0,Bomb,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,59,6,68:26,4106,124791,Kick,529.0,568.0,811.0,481.0,Bomb,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,500265,Kodi Nikorima,60,6,69:23,4163,126216,Kick,663.0,195.0,866.0,306.0,Bomb,Own Error
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,61,6,70:21,4221,129060,Kick,571.0,270.0,923.0,123.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,62,6,71:17,4277,130450,Kick,567.0,475.0,863.0,499.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,500265,Kodi Nikorima,64,6,73:32,4412,133827,Kick,867.0,214.0,962.0,21.0,Crossfield,Regained
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,504363,Kyle Flanagan,65,6,74:28,4468,135231,Kick,311.0,349.0,691.0,528.0,Long,Received By Opposition
+20251111430,500723,Dolphins,500022,St. George Illawarra Dragons,100006258,Isaiya Katoa,66,6,75:28,4528,136726,Kick,629.0,282.0,852.0,376.0,Bomb,Received By Opposition
+20251111430,500022,St. George Illawarra Dragons,500723,Dolphins,500729,Clinton Gutherson,67,5,77:03,4623,140252,Kick,878.0,229.0,991.0,277.0,Grubber,Forces Dropout
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,1,6,00:48,48,2960,Kick,432.0,268.0,850.0,47.0,Long,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,2,6,01:25,85,3896,Kick,456.0,502.0,950.0,480.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,3,6,02:13,133,5100,Kick,566.0,168.0,896.0,19.0,Bomb,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,4,6,02:56,176,6166,Kick,338.0,491.0,862.0,535.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,5,6,03:46,226,7434,Kick,642.0,582.0,898.0,579.0,Bomb,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,7,6,05:38,338,10232,Kick,900.0,494.0,1004.0,669.0,Crossfield,Try
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,8,6,08:04,484,15041,Kick,578.0,386.0,927.0,615.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,9,6,08:53,533,16268,Kick,416.0,439.0,852.0,474.0,Long,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,506851,Chanel Harris-Tavita,16,5,14:27,867,24625,Kick,861.0,189.0,996.0,118.0,Bomb,Opp Error
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,20,6,17:44,1064,30652,Kick,770.0,496.0,972.0,644.0,Bomb,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,21,6,18:25,1105,31690,Kick,343.0,350.0,631.0,613.0,Long,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,506851,Chanel Harris-Tavita,22,6,19:19,1159,33022,Kick,744.0,409.0,955.0,548.0,Bomb,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,23,6,20:06,1206,34207,Kick,521.0,492.0,977.0,341.0,Long,Finds Space
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,506851,Chanel Harris-Tavita,24,6,20:57,1257,35490,Kick,683.0,298.0,946.0,132.0,Crossfield,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,30,6,28:53,1733,50624,Kick,868.0,337.0,962.0,156.0,Crossfield,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,33,6,31:19,1879,54530,Kick,469.0,457.0,861.0,668.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,36,6,33:38,2018,58015,Kick,876.0,503.0,962.0,186.0,Crossfield,Try
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,37,6,36:15,2175,63270,Kick,611.0,191.0,852.0,281.0,Bomb,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,38,6,37:07,2227,64556,Kick,452.0,234.0,866.0,470.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,39,6,38:12,2292,68259,Kick,592.0,185.0,920.0,67.0,Bomb,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,40,6,38:51,2331,69231,Kick,437.0,473.0,859.0,531.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,41,6,39:49,2389,70690,Kick,846.0,188.0,995.0,116.0,Grubber,Regained
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,45,6,43:49,2629,85910,Kick,408.0,374.0,821.0,565.0,Long,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,506851,Chanel Harris-Tavita,52,6,50:41,3041,98899,Kick,683.0,365.0,838.0,622.0,Bomb,Regained
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,501293,Te Maire Martin,52,6,50:52,3052,99196,Kick,771.0,337.0,836.0,45.0,Crossfield,Regained
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,53,5,51:48,3108,101124,Kick,319.0,351.0,879.0,565.0,Long,Finds Space
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,54,6,52:39,3159,102399,Kick,639.0,403.0,947.0,560.0,Bomb,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,55,6,53:30,3210,103660,Kick,330.0,538.0,864.0,437.0,Long,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,57,6,56:47,3407,109687,Kick,398.0,472.0,870.0,541.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,58,6,57:35,3455,110889,Kick,553.0,461.0,616.0,674.0,Bomb,Regained
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,506851,Chanel Harris-Tavita,59,6,58:43,3523,112575,Kick,878.0,215.0,1054.0,135.0,Bomb,Try
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,60,6,61:15,3675,117752,Kick,477.0,472.0,889.0,558.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,61,6,62:10,3730,119140,Kick,503.0,182.0,852.0,118.0,Long,Received By Opposition
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,62,6,63:14,3794,120741,Kick,786.0,519.0,955.0,630.0,Bomb,Own Error
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,63,6,64:31,3871,122663,Kick,355.0,588.0,639.0,572.0,Long,Finds Space
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,64,6,65:17,3917,123821,Kick,665.0,508.0,947.0,518.0,Bomb,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,504321,Braydon Trindall,65,5,65:53,3953,124709,Kick,181.0,441.0,648.0,31.0,Long,Finds Space
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,67,6,69:23,4163,131600,Kick,554.0,491.0,949.0,581.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,68,6,70:33,4233,133371,Kick,764.0,518.0,1005.0,150.0,Crossfield,20m Restart
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,69,6,71:38,4298,134996,Kick,785.0,579.0,955.0,627.0,Bomb,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,71,5,73:13,4393,137598,Kick,587.0,372.0,746.0,621.0,Crossfield,Regained
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,503922,Sione Katoa,72,5,74:21,4461,139312,Kick,898.0,682.0,1052.0,670.0,Grubber,Forces Dropout
+20251111440,500032,New Zealand Warriors,500028,Cronulla-Sutherland Sharks,504296,Luke Metcalf,77,6,79:01,4741,148913,Kick,374.0,432.0,886.0,518.0,Long,Received By Opposition
+20251111440,500028,Cronulla-Sutherland Sharks,500032,New Zealand Warriors,502490,Nicholas Hynes,79,1,79:56,4796,150276,Kick,625.0,454.0,750.0,616.0,Grubber,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,2,6,03:34,214,9331,Kick,674.0,394.0,906.0,648.0,Bomb,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,4,6,05:11,311,11744,Kick,566.0,276.0,880.0,193.0,Long,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,6,1,05:56,356,12878,Kick,536.0,481.0,947.0,403.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,7,6,06:46,406,14134,Kick,425.0,313.0,871.0,81.0,Long,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,8,6,07:35,455,15344,Kick,537.0,345.0,836.0,621.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,9,6,08:24,504,16590,Kick,532.0,235.0,838.0,399.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,15,6,14:44,884,27467,Kick,883.0,472.0,979.0,246.0,Crossfield,Opp Error
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,18,6,17:54,1074,32448,Kick,746.0,240.0,988.0,608.0,Bomb,Try
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,510216,Reece Walsh,21,6,23:52,1432,43986,Kick,884.0,396.0,916.0,192.0,Bomb,Regained
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,22,6,25:08,1508,45876,Kick,374.0,331.0,889.0,123.0,Long,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,510216,Reece Walsh,23,6,26:01,1561,47206,Kick,508.0,322.0,843.0,329.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,25,6,27:34,1654,49537,Kick,892.0,439.0,1044.0,267.0,Crossfield,20m Restart
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,28,6,31:13,1873,56114,Kick,868.0,570.0,971.0,304.0,Crossfield,Own Error
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,510216,Reece Walsh,29,3,31:47,1907,56959,Kick,266.0,256.0,983.0,15.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,30,6,32:40,1960,58298,Kick,524.0,595.0,1001.0,588.0,Long,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,31,6,33:31,2011,59578,Kick,540.0,423.0,858.0,673.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,32,6,34:32,2072,61094,Kick,485.0,468.0,782.0,231.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,506259,AJ Brimson,34,6,36:19,2179,63767,Kick,914.0,235.0,983.0,207.0,Grubber,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,35,6,37:08,2228,65006,Kick,377.0,480.0,969.0,639.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,36,4,37:52,2272,66083,Kick,468.0,273.0,476.0,292.0,Grubber,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,39,2,39:49,2389,69007,Kick,818.0,522.0,1058.0,525.0,Chip,Forces Dropout
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,44,6,44:18,2658,83589,Kick,706.0,442.0,947.0,609.0,Bomb,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,45,6,45:03,2703,84712,Kick,471.0,396.0,819.0,505.0,Long,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,46,6,45:57,2757,86073,Kick,433.0,357.0,878.0,135.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,47,6,46:56,2816,87533,Kick,722.0,141.0,929.0,103.0,Bomb,Opp Error
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,510216,Reece Walsh,49,6,49:11,2951,90920,Kick,275.0,234.0,713.0,4.0,Long,Kick Error
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,504190,Billy Walters,51,5,51:00,3060,93632,Kick,791.0,294.0,1067.0,157.0,Chip,Forces Dropout
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,100001622,Jayden Campbell,55,6,55:07,3307,100992,Kick,590.0,559.0,931.0,674.0,Bomb,Own Error
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,504190,Billy Walters,56,5,56:06,3366,102475,Kick,386.0,367.0,884.0,698.0,Long,40/20
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,60,6,61:18,3678,111462,Kick,719.0,532.0,928.0,633.0,Bomb,Own Error
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,100004534,Ezra Mam,62,3,63:01,3781,114039,Kick,755.0,276.0,925.0,313.0,Chip,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,66,6,65:22,3922,117557,Kick,755.0,528.0,1001.0,273.0,Bomb,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,500086,Adam Reynolds,67,6,66:20,3980,119014,Kick,515.0,297.0,844.0,267.0,Long,Received By Opposition
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,71,6,70:05,4205,125907,Kick,791.0,262.0,966.0,268.0,Bomb,Received By Opposition
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,100006683,Josiah Karapani,73,6,71:58,4318,128737,Kick,809.0,27.0,833.0,78.0,Grubber,Regained
+20251111450,500004,Gold Coast Titans,500011,Brisbane Broncos,500023,Kieran Foran,78,6,78:11,4691,144026,Kick,914.0,144.0,935.0,298.0,Bomb,Try
+20251111450,500011,Brisbane Broncos,500004,Gold Coast Titans,510216,Reece Walsh,81,1,79:58,4798,149538,Kick,232.0,103.0,214.0,6.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,1,6,00:49,49,5549,Kick,376.0,424.0,880.0,571.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,2,6,01:36,96,6722,Kick,523.0,237.0,888.0,123.0,Long,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,3,6,02:21,141,7863,Kick,548.0,377.0,876.0,643.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,6,6,06:18,378,14692,Kick,551.0,296.0,1057.0,124.0,Long,Forces Dropout
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,9,6,10:07,607,21365,Kick,522.0,311.0,1094.0,299.0,Long,20m Restart
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,100006524,Ethan Strange,11,6,11:44,704,23806,Kick,925.0,188.0,1100.0,125.0,Grubber,20m Restart
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,500611,Cody Walker,16,6,17:26,1046,38394,Kick,911.0,416.0,1095.0,288.0,Grubber,Forces Dropout
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,18,6,18:37,1117,40777,Kick,922.0,543.0,944.0,557.0,Bomb,Forces Dropout
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,21,5,20:19,1219,43336,Kick,923.0,465.0,1057.0,449.0,Grubber,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,22,6,21:01,1261,44380,Kick,289.0,261.0,883.0,216.0,Long,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,25,6,23:39,1419,48317,Kick,542.0,443.0,857.0,575.0,Bomb,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,26,6,24:19,1459,49339,Kick,500.0,328.0,1023.0,614.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,27,6,25:00,1500,50342,Kick,461.0,370.0,871.0,223.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,507928,Jayden Sullivan,28,6,25:46,1546,51508,Kick,478.0,467.0,918.0,210.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,504074,Hudson Young,29,6,26:38,1598,52801,Kick,620.0,192.0,886.0,126.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,32,6,28:57,1737,56280,Kick,551.0,212.0,840.0,0.0,Bomb,Out On Full
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,33,5,30:06,1806,58013,Kick,791.0,365.0,1098.0,510.0,Chip,20m Restart
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,500611,Cody Walker,34,4,30:50,1850,59096,Kick,483.0,294.0,927.0,139.0,Long,Finds Space
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,507928,Jayden Sullivan,36,6,33:17,1997,63081,Kick,496.0,459.0,847.0,612.0,Long,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,37,6,34:07,2047,64332,Kick,631.0,412.0,976.0,640.0,Bomb,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,38,6,34:50,2090,65399,Kick,280.0,242.0,826.0,87.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,39,6,35:46,2146,66797,Kick,847.0,351.0,1098.0,670.0,Crossfield,Forces Dropout
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,504074,Hudson Young,43,5,39:59,2399,74222,Kick,474.0,165.0,569.0,235.0,Chip,Regained
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,45,6,40:46,2446,78163,Kick,546.0,387.0,1018.0,191.0,Long,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,46,6,41:49,2509,79720,Kick,649.0,397.0,893.0,481.0,Bomb,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,47,6,42:37,2557,80933,Kick,534.0,180.0,1022.0,42.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,48,6,43:24,2604,82106,Kick,348.0,398.0,854.0,415.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,51,6,45:32,2732,85305,Kick,474.0,251.0,901.0,252.0,Long,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,507846,Kaeo Weekes,52,6,46:27,2787,86680,Kick,810.0,570.0,919.0,578.0,Grubber,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,507928,Jayden Sullivan,53,6,47:19,2839,87974,Kick,375.0,440.0,1100.0,611.0,Long,20m Restart
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,56,6,51:44,3104,95693,Kick,341.0,315.0,841.0,369.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,57,6,52:42,3162,97142,Kick,849.0,488.0,1011.0,641.0,Grubber,Forces Dropout
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,500108,Alex Johnston,60,6,55:23,3323,101165,Kick,934.0,94.0,927.0,76.0,Grubber,Regained
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,500108,Alex Johnston,60,6,55:25,3325,101222,Kick,945.0,82.0,981.0,158.0,Grubber,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,61,6,56:10,3370,102356,Kick,362.0,504.0,816.0,670.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,100006585,Jamie Humphreys,62,6,57:02,3422,103652,Kick,658.0,198.0,990.0,163.0,Bomb,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,63,6,57:42,3462,104658,Kick,683.0,284.0,930.0,576.0,Bomb,Opp Error
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,510220,Xavier Savage,66,6,60:17,3617,109273,Kick,701.0,674.0,833.0,596.0,Grubber,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,100009202,Owen Pattie,69,6,62:40,3760,112853,Kick,981.0,551.0,979.0,502.0,Grubber,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,70,6,63:21,3801,113878,Kick,368.0,299.0,937.0,132.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,71,6,64:10,3850,115098,Kick,675.0,455.0,886.0,496.0,Bomb,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,72,6,64:53,3893,116174,Kick,385.0,199.0,915.0,148.0,Long,Finds Space
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,73,6,65:44,3944,117449,Kick,688.0,317.0,688.0,317.0,Bomb,Try
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,74,6,68:22,4102,122772,Kick,470.0,434.0,922.0,430.0,Long,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,79,6,75:17,4517,136026,Kick,572.0,477.0,936.0,378.0,Long,Received By Opposition
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,80,6,76:12,4572,137402,Kick,697.0,317.0,908.0,158.0,Bomb,Received By Opposition
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,100009202,Owen Pattie,81,5,76:58,4618,138543,Kick,426.0,217.0,718.0,698.0,Long,Finds Space
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,82,6,78:08,4688,140783,Kick,688.0,185.0,881.0,295.0,Bomb,Regained
+20251111460,500013,Canberra Raiders,500005,South Sydney Rabbitohs,501175,Jamal Fogarty,83,6,79:20,4760,142583,Kick,399.0,466.0,748.0,697.0,Long,Finds Space
+20251111460,500005,South Sydney Rabbitohs,500013,Canberra Raiders,502502,Latrell Mitchell,84,3,79:57,4797,143504,Kick,509.0,410.0,662.0,307.0,Chip,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,1,6,00:49,49,2593,Kick,439.0,221.0,880.0,233.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,2,6,01:34,94,3719,Kick,562.0,210.0,825.0,147.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,4,6,04:00,240,7369,Kick,349.0,398.0,711.0,217.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,5,6,04:53,293,8673,Kick,767.0,250.0,949.0,123.0,Bomb,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,6,6,05:38,338,9805,Kick,358.0,482.0,887.0,515.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,500109,Apisai Koroisau,8,6,07:25,445,12490,Kick,911.0,258.0,978.0,423.0,Bomb,Own Error
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,11,6,10:41,641,19745,Kick,709.0,348.0,857.0,108.0,Bomb,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,12,6,11:30,690,20979,Kick,448.0,541.0,889.0,585.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,13,6,12:22,742,22262,Kick,560.0,419.0,880.0,199.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,16,6,16:35,995,29745,Kick,518.0,461.0,886.0,556.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,19,5,18:50,1130,33134,Kick,913.0,489.0,1055.0,615.0,Grubber,Try
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,20,5,21:12,1272,38177,Kick,421.0,264.0,842.0,8.0,Long,Finds Space
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,21,6,22:25,1345,40012,Kick,492.0,388.0,882.0,559.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,505811,Adam Doueihi,22,6,23:18,1398,41342,Kick,599.0,189.0,916.0,154.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,100007927,Thomas Jenkins,23,6,24:08,1448,42571,Kick,661.0,30.0,886.0,349.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,500109,Apisai Koroisau,26,5,28:14,1694,51067,Kick,368.0,388.0,913.0,682.0,Long,Finds Space
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,27,6,28:59,1739,52183,Kick,446.0,409.0,879.0,440.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,28,6,29:46,1786,53375,Kick,593.0,298.0,731.0,60.0,Bomb,Regained
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,29,6,31:08,1868,55962,Kick,653.0,381.0,933.0,585.0,Bomb,Own Error
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,30,5,32:13,1933,57600,Kick,430.0,174.0,778.0,79.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,32,6,33:47,2027,61383,Kick,883.0,411.0,1032.0,51.0,Bomb,20m Restart
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,35,6,36:42,2202,65746,Kick,679.0,270.0,885.0,52.0,Bomb,Regained
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,100006631,Latu Fainu,36,6,37:58,2278,67640,Kick,463.0,338.0,813.0,410.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,40,6,40:45,2445,76461,Kick,470.0,411.0,920.0,611.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,41,6,41:40,2500,77819,Kick,444.0,223.0,937.0,128.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,42,6,42:25,2545,78952,Kick,598.0,454.0,869.0,597.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,47,6,46:23,2783,84895,Kick,839.0,352.0,848.0,676.0,Chip,Regained
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,505410,Brian To'o,47,6,46:27,2787,84996,Kick,921.0,685.0,986.0,619.0,Chip,Forces Dropout
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,50,6,48:45,2925,88464,Kick,853.0,160.0,945.0,58.0,Chip,Regained
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,505811,Adam Doueihi,53,5,51:58,3118,94733,Kick,944.0,55.0,989.0,24.0,Grubber,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,100006848,Blaize Talagi,55,6,53:16,3196,96697,Kick,520.0,284.0,522.0,284.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,100006848,Blaize Talagi,56,6,55:56,3356,100872,Kick,424.0,255.0,770.0,251.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,58,6,58:08,3488,104175,Kick,891.0,340.0,985.0,603.0,Chip,Opp Error
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,100011678,Casey McLean,59,6,59:44,3584,106562,Kick,771.0,75.0,917.0,39.0,Grubber,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,500109,Apisai Koroisau,60,6,60:34,3634,107818,Kick,354.0,274.0,940.0,348.0,Long,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,61,6,61:34,3694,109318,Kick,736.0,186.0,912.0,380.0,Bomb,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,63,6,65:17,3917,115886,Kick,644.0,485.0,865.0,593.0,Bomb,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,64,6,66:10,3970,117218,Kick,576.0,245.0,880.0,333.0,Bomb,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,65,6,67:02,4022,118524,Kick,667.0,276.0,927.0,133.0,Bomb,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,100006657,Heath Mason,68,6,71:58,4318,127008,Kick,615.0,508.0,947.0,473.0,Bomb,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,69,6,72:42,4362,128111,Kick,399.0,315.0,857.0,160.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,70,6,73:37,4417,129480,Kick,570.0,234.0,852.0,114.0,Bomb,Regained
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,71,6,74:54,4494,131402,Kick,567.0,483.0,821.0,625.0,Bomb,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,72,6,75:51,4551,132840,Kick,628.0,163.0,941.0,221.0,Bomb,Regained
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,504120,Nathan Cleary,73,5,76:26,4586,133715,Kick,330.0,430.0,913.0,28.0,Long,Received By Opposition
+20251111470,500023,Wests Tigers,500014,Penrith Panthers,504121,Jarome Luai,74,5,77:28,4648,135243,Kick,419.0,283.0,565.0,150.0,Chip,Received By Opposition
+20251111470,500014,Penrith Panthers,500023,Wests Tigers,100006848,Blaize Talagi,75,6,78:22,4702,136602,Kick,635.0,291.0,904.0,307.0,Bomb,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,1,6,00:49,49,4362,Kick,369.0,446.0,938.0,597.0,Long,Finds Space
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,2,6,01:37,97,5566,Kick,395.0,463.0,977.0,529.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,3,6,02:32,152,6943,Kick,742.0,504.0,920.0,597.0,Bomb,Opp Error
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,8,6,04:23,263,9699,Kick,919.0,266.0,951.0,226.0,Grubber,Own Error
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,9,6,05:50,350,11875,Kick,460.0,552.0,932.0,565.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,13,5,09:29,569,18135,Kick,386.0,240.0,911.0,35.0,Long,Finds Space
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,20,6,15:47,947,28988,Kick,457.0,241.0,814.0,525.0,Long,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,21,6,16:39,999,30301,Kick,736.0,321.0,945.0,351.0,Bomb,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,22,6,17:25,1045,31442,Kick,369.0,174.0,889.0,34.0,Long,Finds Space
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,23,6,18:16,1096,32704,Kick,477.0,491.0,937.0,457.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,26,6,22:15,1335,40668,Kick,491.0,434.0,914.0,545.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,28,6,24:15,1455,43672,Kick,422.0,320.0,847.0,352.0,Long,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,29,6,25:01,1501,44831,Kick,623.0,527.0,885.0,388.0,Bomb,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,30,6,26:11,1571,46569,Kick,750.0,356.0,917.0,598.0,Bomb,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,31,6,26:53,1613,47693,Kick,297.0,404.0,824.0,514.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,32,6,27:46,1666,49014,Kick,772.0,365.0,955.0,650.0,Bomb,Own Error
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,33,6,28:59,1739,50828,Kick,437.0,438.0,966.0,482.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,35,6,30:21,1821,53651,Kick,871.0,204.0,991.0,411.0,Crossfield,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,36,6,31:00,1860,54645,Kick,275.0,522.0,782.0,612.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,37,6,31:45,1905,55753,Kick,659.0,146.0,849.0,160.0,Bomb,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,508062,Stephen Crichton,37,6,31:49,1909,55866,Kick,849.0,160.0,867.0,153.0,Grubber,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,505626,Dylan Brown,38,6,32:32,1952,56928,Kick,484.0,505.0,825.0,631.0,Chip,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,40,6,33:54,2034,58984,Kick,894.0,192.0,1090.0,52.0,Grubber,Own Error
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,41,6,35:05,2105,60753,Kick,639.0,489.0,625.0,486.0,Bomb,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,44,6,38:58,2338,69639,Kick,929.0,212.0,992.0,298.0,Grubber,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,46,2,40:00,2400,71268,Kick,326.0,462.0,479.0,636.0,Crossfield,Own Error
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,505626,Dylan Brown,47,6,40:48,2448,76599,Kick,590.0,223.0,924.0,141.0,Chip,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,48,6,41:35,2495,77777,Kick,355.0,255.0,848.0,125.0,Long,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,50,6,42:52,2572,79715,Kick,755.0,464.0,951.0,580.0,Bomb,Regained
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,51,5,43:34,2614,80760,Kick,379.0,406.0,791.0,128.0,Long,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,504304,Zac Lomax,52,6,44:35,2675,82283,Kick,865.0,686.0,1098.0,564.0,Chip,20m Restart
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,508062,Stephen Crichton,54,6,46:15,2775,84778,Kick,910.0,622.0,999.0,671.0,Grubber,Forces Dropout
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100001636,Toby Sexton,58,6,51:49,3109,93559,Kick,914.0,377.0,1056.0,366.0,Grubber,Forces Dropout
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,59,6,53:33,3213,96171,Kick,877.0,176.0,1055.0,352.0,Crossfield,20m Restart
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,62,6,56:18,3378,100634,Kick,440.0,509.0,900.0,532.0,Long,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,65,6,59:41,3581,105703,Kick,268.0,277.0,738.0,578.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100007336,Lachlan Galvin,67,6,62:54,3774,112865,Kick,561.0,532.0,863.0,641.0,Bomb,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,68,6,63:41,3821,114049,Kick,426.0,458.0,692.0,546.0,Long,Finds Space
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100007336,Lachlan Galvin,72,6,66:38,3998,120642,Kick,847.0,247.0,964.0,524.0,Crossfield,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,500485,Mitchell Moses,73,6,67:21,4041,121722,Kick,264.0,574.0,818.0,573.0,Long,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100007336,Lachlan Galvin,75,6,70:24,4224,127633,Kick,561.0,421.0,828.0,551.0,Bomb,Received By Opposition
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,100007336,Lachlan Galvin,79,6,75:22,4522,137676,Kick,568.0,501.0,869.0,544.0,Bomb,Received By Opposition
+20251111480,500031,Parramatta Eels,500010,Canterbury-Bankstown Bulldogs,504304,Zac Lomax,80,6,76:09,4569,138846,Kick,451.0,502.0,620.0,393.0,Chip,Own Error
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,85,2,79:08,4748,144683,Kick,873.0,482.0,978.0,528.0,Grubber,Opp Error
+20251111480,500010,Canterbury-Bankstown Bulldogs,500031,Parramatta Eels,509397,Matt Burton,87,1,79:36,4776,145905,Kick,845.0,241.0,993.0,151.0,Chip,Own Error
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,1,6,00:43,43,3286,Kick,408.0,513.0,896.0,520.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,2,6,01:33,93,4539,Kick,577.0,217.0,874.0,230.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,3,6,02:15,135,5605,Kick,427.0,561.0,855.0,597.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,4,6,03:08,188,6922,Kick,635.0,520.0,863.0,569.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,5,6,03:47,227,7899,Kick,444.0,515.0,872.0,470.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,7,6,05:26,326,10361,Kick,861.0,212.0,985.0,23.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,500459,Luciano Leilua,8,6,06:05,365,11344,Kick,265.0,296.0,894.0,283.0,Long,Finds Space
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,9,6,07:03,423,12804,Kick,849.0,474.0,1034.0,153.0,Crossfield,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,100012312,Lyhkan King-Togia,10,6,08:11,491,16848,Kick,634.0,264.0,942.0,129.0,Bomb,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,14,6,11:29,689,22875,Kick,376.0,522.0,847.0,607.0,Long,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,15,6,12:18,738,24100,Kick,608.0,506.0,909.0,570.0,Bomb,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,16,6,13:19,799,25625,Kick,744.0,233.0,980.0,53.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,19,6,17:22,1042,33103,Kick,455.0,486.0,876.0,563.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,20,6,18:11,1091,34335,Kick,631.0,526.0,850.0,531.0,Bomb,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,20,6,18:18,1098,34489,Kick,850.0,531.0,960.0,325.0,Grubber,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,500729,Clinton Gutherson,21,6,19:14,1154,35898,Kick,844.0,598.0,915.0,673.0,Chip,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,22,6,20:00,1200,37062,Kick,387.0,561.0,787.0,698.0,Long,Finds Space
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,23,6,21:16,1276,38940,Kick,651.0,504.0,852.0,607.0,Bomb,Opp Error
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,26,6,24:00,1440,43061,Kick,663.0,268.0,883.0,180.0,Bomb,Own Error
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,29,6,28:17,1697,50597,Kick,408.0,380.0,844.0,521.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,30,6,29:05,1745,51809,Kick,675.0,205.0,974.0,21.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,31,6,29:46,1786,52820,Kick,496.0,549.0,864.0,501.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,32,6,30:36,1836,54075,Kick,686.0,174.0,974.0,113.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,36,6,34:58,2098,62892,Kick,528.0,502.0,872.0,661.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,37,6,35:42,2142,63997,Kick,432.0,291.0,817.0,79.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,39,4,37:09,2229,66166,Kick,389.0,280.0,871.0,115.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,41,6,39:18,2358,69412,Kick,546.0,151.0,750.0,40.0,Bomb,Opp Error
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,43,3,39:49,2389,70187,Kick,935.0,199.0,1061.0,174.0,Grubber,Forces Dropout
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,44,6,40:52,2452,77441,Kick,545.0,344.0,924.0,127.0,Long,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,45,6,41:38,2498,78589,Kick,444.0,423.0,908.0,214.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,46,6,42:29,2549,79871,Kick,777.0,311.0,945.0,43.0,Bomb,Own Error
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,47,6,43:30,2610,81396,Kick,492.0,515.0,939.0,505.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,48,6,44:33,2673,82955,Kick,656.0,534.0,933.0,304.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,100012312,Lyhkan King-Togia,49,6,45:19,2719,84109,Kick,355.0,264.0,720.0,168.0,Long,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,51,6,46:59,2819,88246,Kick,547.0,479.0,903.0,600.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,54,6,50:39,3039,94720,Kick,664.0,492.0,1005.0,600.0,Bomb,Forces Dropout
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,56,6,52:27,3147,97623,Kick,374.0,510.0,864.0,453.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,57,5,53:18,3198,98896,Kick,821.0,225.0,980.0,111.0,Bomb,Opp Error
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,60,6,55:46,3346,103411,Kick,649.0,489.0,968.0,590.0,Bomb,Opp Error
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,63,6,59:09,3549,109546,Kick,895.0,514.0,985.0,671.0,Chip,Own Error
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,64,6,60:10,3610,112398,Kick,471.0,426.0,865.0,522.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,65,6,61:02,3662,113695,Kick,728.0,332.0,916.0,127.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,66,6,61:41,3701,114658,Kick,371.0,232.0,802.0,96.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,507062,Briton Nikora,67,5,62:30,3750,115881,Kick,872.0,308.0,1011.0,163.0,Grubber,Forces Dropout
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,69,6,64:59,3899,119846,Kick,532.0,626.0,878.0,442.0,Long,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,70,6,65:48,3948,121064,Kick,657.0,483.0,866.0,600.0,Bomb,Own Error
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,504321,Braydon Trindall,72,6,68:01,4081,124385,Kick,647.0,239.0,852.0,272.0,Bomb,Regained
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,100012312,Lyhkan King-Togia,77,6,74:07,4447,135080,Kick,377.0,242.0,574.0,147.0,Chip,Received By Opposition
+20251111510,500028,Cronulla-Sutherland Sharks,500022,St. George Illawarra Dragons,502490,Nicholas Hynes,79,6,76:53,4613,140473,Kick,667.0,477.0,960.0,610.0,Bomb,Received By Opposition
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,504363,Kyle Flanagan,80,6,77:42,4662,141700,Kick,382.0,407.0,971.0,458.0,Long,Finds Space
+20251111510,500022,St. George Illawarra Dragons,500028,Cronulla-Sutherland Sharks,503449,Jacob Liddle,82,6,79:27,4767,144877,Kick,969.0,296.0,969.0,276.0,Grubber,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500646,Luke Brooks,1,6,00:52,52,3667,Kick,456.0,509.0,882.0,438.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,2,6,01:45,105,4987,Kick,560.0,216.0,560.0,216.0,Long,Kick Error
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,3,6,02:57,177,6780,Kick,868.0,217.0,997.0,416.0,Crossfield,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500751,Jake Trbojevic,5,0,03:21,201,7398,Kick,644.0,329.0,621.0,305.0,Chip,Regained
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,7,6,06:42,402,13228,Kick,540.0,368.0,946.0,89.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,8,6,07:23,443,14366,Kick,348.0,415.0,865.0,521.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,11,6,09:19,559,18128,Kick,915.0,478.0,1016.0,528.0,Grubber,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500646,Luke Brooks,12,5,09:57,597,19086,Kick,341.0,445.0,838.0,252.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,15,6,13:47,827,26695,Kick,614.0,213.0,882.0,210.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,16,6,14:38,878,27966,Kick,383.0,300.0,872.0,84.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,500023,Kieran Foran,19,6,18:31,1111,34845,Kick,823.0,472.0,963.0,266.0,Bomb,Opp Error
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,22,6,21:29,1289,40197,Kick,416.0,527.0,881.0,469.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,500023,Kieran Foran,24,6,23:36,1416,43391,Kick,612.0,214.0,893.0,112.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,30,6,29:21,1761,54448,Kick,696.0,496.0,961.0,540.0,Bomb,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,31,6,30:08,1808,55632,Kick,329.0,257.0,728.0,113.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,33,5,32:44,1964,60567,Kick,390.0,437.0,869.0,586.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,34,4,33:16,1996,61384,Kick,347.0,379.0,827.0,505.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,36,6,35:16,2116,64378,Kick,813.0,352.0,934.0,639.0,Crossfield,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,37,6,36:42,2202,66536,Kick,792.0,573.0,1007.0,638.0,Bomb,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,38,6,37:49,2269,70319,Kick,473.0,381.0,829.0,570.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,42,6,40:54,2454,79442,Kick,495.0,445.0,889.0,557.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500646,Luke Brooks,43,6,41:50,2510,80843,Kick,508.0,400.0,868.0,395.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,44,6,42:35,2555,81976,Kick,420.0,490.0,931.0,526.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,45,6,43:33,2613,83412,Kick,839.0,534.0,955.0,623.0,Chip,Own Error
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,46,6,44:17,2657,84528,Kick,362.0,317.0,820.0,449.0,Long,Finds Space
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,47,6,45:14,2714,85948,Kick,737.0,185.0,1025.0,184.0,Bomb,20m Restart
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,48,5,46:05,2765,87204,Kick,594.0,462.0,1055.0,601.0,Long,Finds Space
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500646,Luke Brooks,49,6,46:59,2819,88557,Kick,456.0,499.0,888.0,496.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,50,6,47:42,2862,89648,Kick,463.0,552.0,912.0,603.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,53,6,50:44,3044,94184,Kick,512.0,548.0,873.0,600.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,54,6,51:52,3112,97706,Kick,856.0,504.0,934.0,242.0,Crossfield,Own Error
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500646,Luke Brooks,56,6,53:29,3209,100127,Kick,862.0,171.0,992.0,475.0,Crossfield,Regained
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,57,6,54:26,3266,103951,Kick,887.0,379.0,983.0,630.0,Crossfield,Own Error
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,58,6,55:36,3336,105685,Kick,447.0,386.0,840.0,335.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,59,6,56:31,3391,107073,Kick,866.0,183.0,950.0,399.0,Bomb,Regained
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,60,5,57:38,3458,108751,Kick,940.0,490.0,1096.0,584.0,Grubber,20m Restart
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,61,6,58:43,3523,110361,Kick,737.0,500.0,879.0,632.0,Bomb,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,62,6,59:39,3579,111759,Kick,670.0,257.0,873.0,106.0,Bomb,Opp Error
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,500023,Kieran Foran,65,6,61:20,3680,117851,Kick,612.0,499.0,861.0,546.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,66,6,62:07,3727,119005,Kick,383.0,384.0,903.0,584.0,Long,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,69,6,64:48,3888,123028,Kick,563.0,384.0,836.0,553.0,Long,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,70,6,65:50,3950,124601,Kick,714.0,307.0,933.0,657.0,Bomb,Regained
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,506259,AJ Brimson,72,5,68:07,4087,128149,Kick,860.0,264.0,900.0,217.0,Grubber,Received By Opposition
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,77,6,74:31,4471,140147,Kick,599.0,463.0,902.0,587.0,Bomb,Received By Opposition
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,78,6,75:22,4522,141423,Kick,374.0,541.0,1097.0,435.0,Long,20m Restart
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,500024,Daly Cherry-Evans,79,6,76:42,4602,143420,Kick,825.0,435.0,882.0,602.0,Bomb,Regained
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,501505,Tom Trbojevic,79,6,76:48,4608,143590,Kick,882.0,528.0,1062.0,351.0,Bomb,20m Restart
+20251111520,500004,Gold Coast Titans,500002,Manly-Warringah Sea Eagles,100001622,Jayden Campbell,80,2,77:16,4636,144280,Kick,456.0,441.0,952.0,501.0,Long,Finds Space
+20251111520,500002,Manly-Warringah Sea Eagles,500004,Gold Coast Titans,501505,Tom Trbojevic,83,3,79:18,4758,147320,Kick,942.0,240.0,952.0,215.0,Grubber,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,1,6,00:51,51,2181,Kick,536.0,481.0,972.0,436.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,2,6,01:38,98,3372,Kick,352.0,327.0,858.0,479.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,3,6,02:36,156,4803,Kick,647.0,394.0,934.0,608.0,Bomb,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,5,6,06:06,366,11173,Kick,526.0,200.0,970.0,51.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,8,6,09:03,543,15602,Kick,554.0,519.0,825.0,530.0,Bomb,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,9,6,09:52,592,16827,Kick,450.0,485.0,853.0,588.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,10,6,10:42,642,18073,Kick,560.0,394.0,919.0,548.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502016,Jayden Brailey,15,6,15:51,951,26326,Kick,979.0,358.0,992.0,351.0,Grubber,Opp Error
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,17,6,17:20,1040,28533,Kick,940.0,207.0,1002.0,193.0,Grubber,Own Error
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,18,6,18:44,1124,30656,Kick,547.0,519.0,959.0,494.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,19,6,19:28,1168,31755,Kick,466.0,423.0,880.0,665.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,20,6,20:15,1215,32925,Kick,704.0,498.0,974.0,554.0,Bomb,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,22,6,21:49,1309,35270,Kick,700.0,261.0,953.0,204.0,Bomb,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,23,6,22:33,1353,36372,Kick,365.0,411.0,875.0,574.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,100008414,Fletcher Hunt,27,6,26:18,1578,41999,Kick,934.0,148.0,1098.0,137.0,Grubber,Forces Dropout
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,29,6,27:31,1651,45339,Kick,875.0,297.0,990.0,166.0,Chip,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,30,6,28:23,1703,46651,Kick,483.0,503.0,866.0,552.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,31,6,29:21,1761,48097,Kick,579.0,629.0,874.0,559.0,Bomb,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,33,6,31:16,1876,50975,Kick,499.0,500.0,879.0,436.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,34,4,31:49,1909,51803,Kick,365.0,351.0,768.0,688.0,Long,Finds Space
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,37,6,34:18,2058,55513,Kick,607.0,565.0,867.0,539.0,Bomb,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,38,6,35:11,2111,56856,Kick,509.0,228.0,888.0,286.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,39,6,36:14,2174,58414,Kick,795.0,199.0,993.0,500.0,Crossfield,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,42,6,38:54,2334,62420,Kick,741.0,242.0,936.0,65.0,Bomb,Opp Error
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,45,6,40:52,2452,68953,Kick,542.0,467.0,868.0,575.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,46,6,41:46,2506,70313,Kick,565.0,219.0,911.0,245.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,47,6,42:41,2561,71688,Kick,512.0,583.0,936.0,524.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,48,6,43:35,2615,73042,Kick,482.0,258.0,878.0,176.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,49,6,44:25,2665,74288,Kick,621.0,572.0,917.0,661.0,Bomb,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,50,6,45:07,2707,75329,Kick,467.0,342.0,844.0,592.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,51,6,46:01,2761,76679,Kick,754.0,132.0,933.0,137.0,Chip,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,52,6,46:48,2808,77856,Kick,417.0,541.0,915.0,430.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,55,6,50:14,3014,83021,Kick,453.0,594.0,857.0,481.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,56,6,51:04,3064,84271,Kick,387.0,524.0,781.0,517.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,60,6,54:04,3244,88772,Kick,444.0,609.0,996.0,338.0,Long,Finds Space
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,61,6,54:51,3291,89925,Kick,588.0,502.0,675.0,526.0,Bomb,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,62,6,57:45,3465,94939,Kick,669.0,172.0,965.0,146.0,Bomb,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,63,6,58:29,3509,96042,Kick,418.0,510.0,870.0,310.0,Long,Finds Space
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,67,6,62:05,3725,109299,Kick,561.0,227.0,951.0,122.0,Long,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,69,6,63:49,3829,111910,Kick,894.0,308.0,960.0,254.0,Crossfield,Own Error
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,70,6,64:36,3876,113094,Kick,327.0,490.0,853.0,498.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,72,6,66:56,4016,116590,Kick,773.0,313.0,960.0,542.0,Bomb,Received By Opposition
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509579,Sandon Smith,73,6,67:54,4074,118035,Kick,556.0,537.0,752.0,612.0,Bomb,Own Error
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,74,6,68:51,4131,119466,Kick,680.0,448.0,867.0,340.0,Bomb,Regained
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,500663,James Tedesco,76,5,70:15,4215,121567,Kick,858.0,505.0,1064.0,575.0,Grubber,Try
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,100007527,Benaiah Ioelu,77,5,72:40,4360,127694,Kick,358.0,369.0,807.0,602.0,Long,Finds Space
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,502695,Jack Cogger,78,6,73:32,4412,128997,Kick,659.0,183.0,948.0,228.0,Bomb,Own Error
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,80,6,75:20,4520,133684,Kick,754.0,250.0,868.0,213.0,Bomb,Own Error
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,81,6,76:30,4590,135432,Kick,891.0,600.0,991.0,681.0,Chip,Opp Error
+20251111530,500001,Sydney Roosters,500003,Newcastle Knights,509599,Hugo Savala,83,6,78:38,4718,138747,Kick,474.0,244.0,858.0,159.0,Long,Received By Opposition
+20251111530,500003,Newcastle Knights,500001,Sydney Roosters,500202,Jackson Hastings,84,6,79:34,4774,140151,Kick,830.0,488.0,955.0,683.0,Chip,Regained
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,1,6,00:48,48,2405,Kick,453.0,276.0,860.0,90.0,Long,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,6,6,05:54,354,12426,Kick,634.0,453.0,857.0,612.0,Bomb,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,9,6,07:44,464,16570,Kick,881.0,430.0,928.0,475.0,Grubber,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,100008940,Jaxon Purdue,14,6,12:05,725,28098,Kick,902.0,297.0,897.0,312.0,Grubber,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,15,6,12:53,773,29301,Kick,460.0,444.0,941.0,534.0,Long,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,16,6,13:41,821,30509,Kick,648.0,210.0,865.0,264.0,Bomb,Own Error
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,18,6,17:06,1026,36987,Kick,527.0,541.0,926.0,538.0,Long,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,19,6,17:56,1076,38225,Kick,455.0,507.0,980.0,510.0,Long,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,510612,Zac Laybutt,21,6,20:19,1219,41817,Kick,623.0,378.0,920.0,696.0,Bomb,Out On Full
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,23,6,23:32,1412,47948,Kick,499.0,531.0,926.0,598.0,Long,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,28,6,28:49,1729,56892,Kick,467.0,433.0,870.0,402.0,Long,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,29,6,29:39,1779,58135,Kick,289.0,369.0,1074.0,695.0,Long,20m Restart
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,504087,Scott Drinkwater,30,6,30:52,1852,59948,Kick,816.0,108.0,960.0,49.0,Bomb,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,40,6,40:48,2448,83714,Kick,546.0,433.0,930.0,537.0,Long,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,41,6,41:35,2495,84878,Kick,446.0,438.0,902.0,508.0,Long,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,42,6,42:34,2554,86350,Kick,570.0,298.0,851.0,291.0,Bomb,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,46,6,45:51,2751,92291,Kick,584.0,237.0,876.0,118.0,Bomb,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,48,6,47:33,2853,94839,Kick,838.0,199.0,953.0,423.0,Bomb,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,49,5,48:11,2891,95791,Kick,321.0,468.0,858.0,661.0,Long,Finds Space
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,50,6,48:59,2939,96992,Kick,626.0,254.0,805.0,159.0,Bomb,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,507949,Connelly Lemuelu,51,6,49:45,2985,98135,Kick,618.0,165.0,872.0,61.0,Bomb,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,52,6,50:34,3034,99363,Kick,376.0,322.0,761.0,313.0,Long,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,502511,Jeremy Marshall-King,53,6,51:35,3095,100886,Kick,839.0,523.0,858.0,535.0,Chip,Regained
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,504087,Scott Drinkwater,56,6,56:18,3378,110214,Kick,574.0,444.0,790.0,448.0,Bomb,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,100008940,Jaxon Purdue,60,6,58:44,3524,113864,Kick,670.0,429.0,896.0,538.0,Bomb,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,500265,Kodi Nikorima,61,6,59:51,3591,115547,Kick,530.0,177.0,701.0,210.0,Bomb,Own Error
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,63,6,61:40,3700,120343,Kick,509.0,467.0,824.0,343.0,Bomb,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,64,6,62:32,3752,121639,Kick,286.0,438.0,731.0,37.0,Long,Received By Opposition
+20251111540,500012,North Queensland Cowboys,500723,Dolphins,505894,Jake Clifford,70,4,68:02,4082,133567,Kick,850.0,421.0,1034.0,498.0,Grubber,Forces Dropout
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,100006258,Isaiya Katoa,75,6,74:37,4477,146212,Kick,464.0,349.0,542.0,315.0,Chip,Received By Opposition
+20251111540,500723,Dolphins,500012,North Queensland Cowboys,500265,Kodi Nikorima,76,6,76:19,4579,148772,Kick,896.0,226.0,1009.0,48.0,Crossfield,Forces Dropout
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,1,5,00:38,38,2751,Kick,340.0,435.0,813.0,635.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,2,6,01:22,82,3849,Kick,596.0,404.0,921.0,128.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,3,6,02:13,133,5139,Kick,578.0,173.0,921.0,257.0,Bomb,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,4,6,03:00,180,6311,Kick,530.0,251.0,976.0,210.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,5,6,03:50,230,7563,Kick,488.0,434.0,854.0,664.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,6,6,04:29,269,8532,Kick,393.0,278.0,946.0,72.0,Long,Finds Space
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,7,6,05:18,318,9752,Kick,585.0,351.0,880.0,576.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,8,6,05:57,357,10716,Kick,412.0,235.0,882.0,163.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,10,6,09:18,558,16782,Kick,562.0,534.0,856.0,622.0,Bomb,Own Error
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,11,6,10:25,625,18455,Kick,469.0,223.0,939.0,151.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,12,6,11:21,681,19863,Kick,568.0,197.0,814.0,446.0,Bomb,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,16,6,17:41,1061,31891,Kick,577.0,506.0,714.0,669.0,Long,Kick Error
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100004133,Jacob Kiraz,17,1,17:47,1067,32024,Kick,749.0,633.0,830.0,608.0,Chip,Regained
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,18,6,19:47,1187,37423,Kick,894.0,176.0,979.0,149.0,Grubber,Forces Dropout
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,500339,Jack Wighton,20,6,21:22,1282,39814,Kick,414.0,137.0,909.0,230.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,21,6,22:25,1345,41371,Kick,855.0,218.0,971.0,548.0,Crossfield,Own Error
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,23,6,24:06,1446,43890,Kick,628.0,245.0,580.0,286.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,25,6,26:02,1562,46810,Kick,655.0,350.0,794.0,102.0,Crossfield,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,507928,Jayden Sullivan,26,6,26:54,1614,48110,Kick,600.0,449.0,785.0,632.0,Bomb,Own Error
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,27,6,28:00,1680,49752,Kick,529.0,335.0,977.0,588.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,507928,Jayden Sullivan,28,6,28:46,1726,50910,Kick,299.0,498.0,737.0,492.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,29,6,29:39,1779,52220,Kick,766.0,451.0,882.0,606.0,Crossfield,Regained
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,505460,Reed Mahoney,30,6,30:50,1850,54003,Kick,993.0,562.0,964.0,548.0,Grubber,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,500441,Euan Aitken,31,6,31:26,1886,98926,Kick,176.0,465.0,593.0,468.0,Long,Finds Space
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,32,6,32:20,1940,100263,Kick,897.0,464.0,1034.0,552.0,Chip,Forces Dropout
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,33,6,33:49,2029,102488,Kick,900.0,439.0,992.0,241.0,Crossfield,Regained
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,34,6,34:52,2092,104060,Kick,291.0,250.0,757.0,98.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,38,6,38:27,2307,109441,Kick,864.0,328.0,988.0,118.0,Crossfield,Opp Error
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,41,6,40:45,2445,118838,Kick,376.0,152.0,883.0,218.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,42,6,41:37,2497,120120,Kick,429.0,451.0,844.0,583.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,45,6,43:51,2631,123471,Kick,885.0,380.0,991.0,422.0,Grubber,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,49,6,47:24,2844,128805,Kick,369.0,491.0,845.0,583.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,50,6,48:13,2893,130015,Kick,447.0,126.0,963.0,126.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,51,6,49:06,2946,131344,Kick,420.0,381.0,851.0,570.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,52,6,49:52,2992,132506,Kick,539.0,409.0,872.0,444.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,505460,Reed Mahoney,53,4,50:21,3021,133225,Kick,379.0,331.0,839.0,691.0,Long,Finds Space
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,507928,Jayden Sullivan,54,6,51:06,3066,134342,Kick,432.0,606.0,871.0,525.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,55,6,51:50,3110,138906,Kick,483.0,479.0,884.0,574.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,56,6,52:40,3160,140158,Kick,453.0,258.0,918.0,183.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,505460,Reed Mahoney,57,4,53:12,3192,140966,Kick,377.0,369.0,778.0,603.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,507928,Jayden Sullivan,58,6,54:00,3240,142156,Kick,590.0,444.0,902.0,599.0,Bomb,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,59,6,55:01,3301,143681,Kick,393.0,309.0,817.0,189.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,65,6,62:39,3759,158583,Kick,432.0,453.0,862.0,129.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,507928,Jayden Sullivan,67,6,63:54,3834,161790,Kick,645.0,322.0,900.0,588.0,Long,Received By Opposition
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100001636,Toby Sexton,68,6,64:46,3886,163094,Kick,556.0,453.0,873.0,651.0,Long,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,70,6,66:24,3984,165552,Kick,809.0,208.0,942.0,567.0,Crossfield,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,100006585,Jamie Humphreys,73,5,68:58,4138,169490,Kick,335.0,490.0,728.0,373.0,Long,Finds Space
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100004133,Jacob Kiraz,74,6,69:49,4189,171492,Kick,744.0,651.0,879.0,526.0,Grubber,Regained
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,500149,Jai Arrow,77,6,73:58,4438,180985,Kick,526.0,210.0,1013.0,50.0,Long,Finds Space
+20251111550,500010,Canterbury-Bankstown Bulldogs,500005,South Sydney Rabbitohs,100007336,Lachlan Galvin,78,6,74:57,4497,182463,Kick,876.0,163.0,1023.0,90.0,Grubber,Received By Opposition
+20251111550,500005,South Sydney Rabbitohs,500010,Canterbury-Bankstown Bulldogs,506548,Isaiah Tass,84,1,77:59,4679,190383,Kick,657.0,495.0,863.0,679.0,Chip,Try
