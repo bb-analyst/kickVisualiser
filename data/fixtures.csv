@@ -112,3 +112,10 @@ roundId,roundName,roundAbbreviation,game,gameId,gameStateId,venueName,groundCond
 15,Round 15,RD15,Newcastle Knights lost to Sydney Roosters (8-12) - 14-Jun-2025,20251111530,8,McDonald Jones Stadium,Good,Showers,500003,Newcastle Knights,Knights,NEW,8,500001,Sydney Roosters,Roosters,SYD,12
 15,Round 15,RD15,North Queensland Cowboys lost to Dolphins (4-58) - 14-Jun-2025,20251111540,8,Queensland Country Bank Stadium,Good,Fine,500012,North Queensland Cowboys,Cowboys,NQL,4,500723,Dolphins,Dolphins,DOL,58
 15,Round 15,RD15,South Sydney Rabbitohs lost to Canterbury-Bankstown Bulldogs (18-24) - 15-Jun-2025,20251111550,8,Accor Stadium,Good,Rain,500005,South Sydney Rabbitohs,Rabbitohs,SOU,18,500010,Canterbury-Bankstown Bulldogs,Bulldogs,BUL,24
+16,Round 16,RD16,Wests Tigers lost to Canberra Raiders (12-16) - 20-Jun-2025,20251111610,8,Campbelltown Sports Stadium,Good,Fine,500023,Wests Tigers,Wests Tigers,WST,12,500013,Canberra Raiders,Raiders,CAN,16
+16,Round 16,RD16,New Zealand Warriors lost to Penrith Panthers (18-28) - 21-Jun-2025,20251111620,8,Go Media Stadium,Good,Fine,500032,New Zealand Warriors,Warriors,WAR,18,500014,Penrith Panthers,Panthers,PEN,28
+16,Round 16,RD16,Dolphins lost to Newcastle Knights (20-26) - 21-Jun-2025,20251111630,8,HBF Park,Good,Light Rain,500723,Dolphins,Dolphins,DOL,20,500003,Newcastle Knights,Knights,NEW,26
+16,Round 16,RD16,South Sydney Rabbitohs lost to Melbourne Storm (24-25) - 21-Jun-2025,20251111640,8,Accor Stadium,Good,Fine,500005,South Sydney Rabbitohs,Rabbitohs,SOU,24,500021,Melbourne Storm,Storm,MEL,25
+16,Round 16,RD16,Brisbane Broncos def. Cronulla-Sutherland Sharks (34-28) - 22-Jun-2025,20251111650,8,Suncorp Stadium,Good,Fine,500011,Brisbane Broncos,Broncos,BRI,34,500028,Cronulla-Sutherland Sharks,Sharks,CRO,28
+16,Round 16,RD16,Sydney Roosters def. North Queensland Cowboys (42-8) - 22-Jun-2025,20251111660,8,Allianz Stadium,Good,Fine,500001,Sydney Roosters,Roosters,SYD,42,500012,North Queensland Cowboys,Cowboys,NQL,8
+16,Round 16,RD16,Parramatta Eels def. Gold Coast Titans (36-20) - 22-Jun-2025,20251111670,8,CommBank Stadium,Good,Fine,500031,Parramatta Eels,Eels,PAR,36,500004,Gold Coast Titans,Titans,GOL,20
